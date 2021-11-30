@@ -1,4 +1,4 @@
-let speed = 100;
+let delay = 100;
 let increment = 150;
 
 let spinner = ['\r|   ', '\r/   ', '\r-   ', '\r\\   ', '\r|   ', '\r~   ', '\r*   '];
