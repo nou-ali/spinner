@@ -21,9 +21,9 @@ setTimeout(() => {
 
 setTimeout(() => {
   process.stdout.write('\r~   ');
-}, 800);
+}, 900);
 
 setTimeout(() => {
   process.stdout.write('\r*   ');
-}, 800);
+}, 1000);
 
